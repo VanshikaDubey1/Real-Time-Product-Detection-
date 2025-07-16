@@ -41,7 +41,7 @@ cellphone_alert.mp3 – custom audio alert for phone detection
 person_alert.mp3 – custom audio alert for person detection
 ## 🚀 Demo
 
-<p align="center">
+<p align="left">
   <img src="./opencv.png" alt="Demo Screenshot" width="400"/>
 </p>
 
