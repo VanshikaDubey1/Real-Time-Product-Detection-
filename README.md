@@ -41,9 +41,12 @@ cellphone_alert.mp3 – custom audio alert for phone detection
 person_alert.mp3 – custom audio alert for person detection
 ## 🚀 Demo
 
-![Demo Screenshot](./opencv.png)
+<p align="center">
+  <img src="./opencv.png" alt="Demo Screenshot" width="400"/>
+</p>
 
-Real-time detection from webcam using YOLOv5 and OpenCV.
+Real-time object detection and labeling using webcam + YOLO + OpenCV.
+
 
 Run the script:
 python yolo_opencv_webcam.py
