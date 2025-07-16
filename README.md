@@ -34,12 +34,16 @@ Uses YOLOv5s from ultralytics/yolov5
 Trained on COCO dataset (80 common object classes)
 🛠️ Setup Instructions
 Place the following files in the project folder:
-
 yolo_opencv_webcam.py
 
 cellphone_alert.mp3 – custom audio alert for phone detection
 
 person_alert.mp3 – custom audio alert for person detection
+## 🚀 Demo
+
+![Demo Screenshot](./opencv.png)
+
+Real-time detection from webcam using YOLOv5 and OpenCV.
 
 Run the script:
 python yolo_opencv_webcam.py
