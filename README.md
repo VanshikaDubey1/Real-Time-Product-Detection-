@@ -18,9 +18,11 @@ This project performs real-time object detection from a webcam using **YOLOv5** 
 ---
 
 ## 📦 Requirements
-
 - Python 3.7+
-- See [`requirements.txt`](./requirements.txt)
+  OpenCV
+  PyTorch
+  yolov5s.pt model file
+ - See [`requirements.txt`](./requirements.txt)
 
 ### Python Packages
 
